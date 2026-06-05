@@ -1,6 +1,6 @@
 # Tobias Simon Mäder
 
-**Full-stack / product engineer · Zürich**
+**Full-stack / product engineer · Zürich · they/them** 🏳️‍🌈
 
 > I build AI-powered search and community platforms for queer life — and tools that hold bad actors to account. Edge-first, end-to-end, shipped solo.
 
@@ -51,3 +51,7 @@ A Manifest V3 Chrome extension that turns free-text search on a high-volume soci
 
 ![Tobias's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmaeder&show_icons=true&hide_border=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tmaeder&layout=compact&hide_border=true)
+
+---
+
+<sub>*Built for Stonewall, for ACT UP, for everyone who still needs to be seen.*</sub>
