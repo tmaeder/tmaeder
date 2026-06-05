@@ -1,10 +1,12 @@
 # Tobias Simon Mäder
 
-**Full-stack / product engineer · Zürich · they/them** 🏳️‍🌈
+**Digital product builder · marketing × code × community · Zürich · they/them** 🏳️‍🌈
 
-> I build AI-powered search and community platforms for queer life — and tools that hold bad actors to account. Edge-first, end-to-end, shipped solo.
+> I build AI-powered search and community platforms for queer life — and tools that hold bad actors to account. Marketing brain, builder's hands, shipped solo.
 
-🟢 **Open to work** — full-time · contract · remote
+🏳️‍🌈 Queer human-rights activist — group lead at **Queeramnesty Schweiz** (Amnesty International) since 2007.
+
+💬 Open to interesting projects & collaborations
 
 🛠 TypeScript · Python · React · Cloudflare Workers · Postgres / pgvector · Meilisearch
 
@@ -34,14 +36,18 @@ A Manifest V3 Chrome extension that turns free-text search on a high-volume soci
 
 ---
 
-## Skills
+## What I do
 
 | | |
 |---|---|
-| **Frontend** | React, TypeScript, responsive UI |
-| **Backend** | Python, Node, Postgres / pgvector, REST |
-| **AI / Search** | Hybrid search, embeddings, vector DBs, Workers AI, Meilisearch |
-| **Infra** | Cloudflare Workers, edge compute, serverless, CI/CD |
+| **Build** | TypeScript, Python, React, Cloudflare Workers, Postgres / pgvector |
+| **Search / AI** | Hybrid search, embeddings, vector DBs, Workers AI, Meilisearch |
+| **Marketing / Growth** | Digital marketing, content & campaigns, CMS, social, analytics |
+| **People** | Community building, fundraising, comms, group leadership |
+
+## Beyond code
+
+Digital Marketing Manager by day. Queer activist for ~two decades — group lead at Queeramnesty Schweiz, working on human rights around sexual orientation and gender identity within Amnesty International.
 
 ## Contact
 
@@ -51,7 +57,3 @@ A Manifest V3 Chrome extension that turns free-text search on a high-volume soci
 
 ![Tobias's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmaeder&show_icons=true&hide_border=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tmaeder&layout=compact&hide_border=true)
-
----
-
-<sub>*Built for Stonewall, for ACT UP, for everyone who still needs to be seen.*</sub>
